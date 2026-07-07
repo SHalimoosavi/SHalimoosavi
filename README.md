@@ -1,8 +1,6 @@
-@@ -1,120 +1,49 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header&fontSize=0" width="100%"/>
-# Hi, I'm Syed Ali Hasan Moosavi 👋
 
 # Syed Ali Hasan Moosavi
 ### Founder & AI Systems Architect · SAYANJALI NEXUS
