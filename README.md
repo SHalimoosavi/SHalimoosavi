@@ -33,7 +33,7 @@ Building scalable AI, blockchain, and automation systems — from local-first AI
 
 I build production-grade AI systems, automation pipelines, and SaaS platforms for enterprises, hospitals, logistics firms, and Gulf-based clients — under **SAYANJALI NEXUS PRIVATE LIMITED**, a registered technology company based in Hyderabad, India.
 
-My work spans the full delivery chain: architecture, implementation, deployment, and client handoff. I specialize in systems that eliminate manual operations at scale — AI document processing, compliance automation, intelligent dispatch, and multi-channel enterprise tooling.
+My work spans the full delivery chain — architecture, implementation, deployment, and client handoff — with a focus on systems that eliminate manual operations at scale: AI document processing, compliance automation, intelligent dispatch, and multi-channel enterprise tooling.
 
 I also lead **SYJ Token**, a blockchain-based digital asset initiative, overseeing tokenomics design and ecosystem strategy to align long-term value creation with real-world utility.
 
@@ -83,12 +83,16 @@ I also lead **SYJ Token**, a blockchain-based digital asset initiative, overseei
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHalimoosavi&show_icons=true&theme=dark&title_color=F59E0B&icon_color=818CF8&text_color=FFFFFF&bg_color=0D1117&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHalimoosavi&show_icons=true&theme=dark&title_color=F59E0B&icon_color=818CF8&text_color=FFFFFF&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SHalimoosavi&theme=dark&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=818CF8&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHalimoosavi&layout=compact&theme=dark&title_color=F59E0B&bg_color=0D1117&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHalimoosavi&layout=compact&theme=dark&title_color=F59E0B&bg_color=0D1117&hide_border=true&cache_seconds=1800&langs_count=8)
 
+</div>
+
+<div align="center">
+<sub>Stats served via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (shared instance). If a card doesn't render, GitHub's cache will refresh it automatically within a few hours — or view live stats directly on my <a href="https://github.com/SHalimoosavi">profile</a>.</sub>
 </div>
 
 ---
@@ -111,8 +115,11 @@ I take on consulting and contract engagements in:
 - AI integration for logistics, healthcare, and Gulf-market clients
 - Blockchain strategy and tokenomics design
 
-**CTO / General:** [shalimoosavi@gmail.com](mailto:shalimoosavi@gmail.com)
-**SYJ Token / Ventures:** [founders@syj-token.com](mailto:founders@syj-token.com)
+| Contact | Purpose |
+|---|---|
+| [cto@sayanjalinexus.com](mailto:cto@sayanjalinexus.com) | CTO Office · General & enterprise inquiries |
+| [founders@syj-token.com](mailto:founders@syj-token.com) | SYJ Token · Ventures & partnerships |
+| [shalimoosavi@gmail.com](mailto:shalimoosavi@gmail.com) | Personal · Direct contact |
 
 > 🏢 **SAYANJALI NEXUS PRIVATE LIMITED** · Hyderabad, India
 
@@ -120,7 +127,7 @@ I take on consulting and contract engagements in:
 
 <div align="center">
 
-**SAYANJALI NEXUS PRIVATE LIMITED · Hyderabad, India · Est. 2025**
+**SAYANJALI NEXUS PRIVATE LIMITED · Hyderabad, India · Est. 2024**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=818CF8&height=80&section=footer&fontSize=0" width="100%"/>
 
