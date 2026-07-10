@@ -127,10 +127,10 @@ I take on consulting and contract engagements in:
 
 <div align="center">
 
-**SAYANJALI NEXUS PRIVATE LIMITED · Hyderabad, India · Est. 2024**
+**SAYANJALI NEXUS PRIVATE LIMITED · Hyderabad, India · Est. 2025**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=818CF8&height=80&section=footer&fontSize=0" width="100%"/>
 
-<sub>Built with ❤️ from Termux on Android · 2026</sub>
+<sub>Built with ❤️ · 2026</sub>
 
 </div>
