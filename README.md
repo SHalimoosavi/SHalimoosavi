@@ -21,6 +21,7 @@
 
 <p align="center">
   <sub>
+    <a href="#highlights">Highlights</a> ·
     <a href="#about">About</a> ·
     <a href="#what-i-build">What I Build</a> ·
     <a href="#ecosystem">Ecosystem</a> ·
@@ -28,10 +29,24 @@
     <a href="#project-explorer">Project Explorer</a> ·
     <a href="#stack">Stack</a> ·
     <a href="#analytics">Analytics</a> ·
-    <a href="#roadmap">Roadmap</a> ·
+    <a href="#philosophy">Philosophy</a> ·
     <a href="#contact">Contact</a>
   </sub>
 </p>
+
+---
+
+<h2 id="highlights">Highlights</h2>
+
+- 🏢 Founder of **SAYANJALI NEXUS PRIVATE LIMITED**
+- 📦 60+ public repositories across AI, blockchain, and developer tooling
+- 🤖 Applied AI systems — from local-inference platforms to mail intelligence
+- 💼 SaaS & workflow automation for CRM, recruitment, and trade operations
+- ⛓️ Blockchain infrastructure — consensus, wallets, and tokenomics
+- 📱 Android + Termux-native development, alongside conventional Linux/cloud
+- 🔐 Cybersecurity & OSINT tooling
+- 🎓 Open-source education platform, independently test-verified
+- 🏥 Automation and compliance work for healthcare-adjacent clients
 
 ---
 
@@ -44,6 +59,8 @@ Every system I build starts from the same constraint: it has to run cleanly on c
 **Mission** — Build software that removes friction from real operations: compliance, communication, security, and data — without vendor lock-in or unnecessary complexity.
 
 **Vision** — A product ecosystem under SAYANJALI NEXUS where AI, blockchain, and automation infrastructure are open, auditable, and genuinely useful to the businesses that adopt them — not just demo-ready.
+
+**Journey** — Dispatcher → Automation Engineer → AI Systems Architect → Founder → building the SAYANJALI NEXUS ecosystem.
 
 <h2 id="what-i-build">What I Build</h2>
 
@@ -89,22 +106,10 @@ flowchart TD
 
 <h2 id="featured-projects">Featured Projects</h2>
 
-### 🔗 SAYANJALI Blockchain
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
-
-Enterprise blockchain ecosystem — proof-of-work consensus engine, ECDSA-based wallet cryptography, and full public documentation, verified with an automated test suite.
-
-`Python` `ECDSA` `Proof-of-Work`
-
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SAYANJALI-BLOCKCHAIN)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/syj-blockchain-web/)
-
----
-
 ### 🧠 SYJ AI
 ![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
 
-Platform showcasing enterprise AI solutions, automation tooling, and applied intelligent applications across the SAYANJALI NEXUS product suite.
+The umbrella showcase for applied AI across the SAYANJALI NEXUS portfolio — automation tooling and intelligent applications built around local inference rather than a hosted API.
 
 `Python` `FastAPI` `Applied AI`
 
@@ -113,61 +118,71 @@ Platform showcasing enterprise AI solutions, automation tooling, and applied int
 
 ---
 
-### 🪙 SYJ Token
+### 🔗 SAYANJALI Blockchain
 ![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
 
-Digital asset ecosystem designed for real-world utility and enterprise integration, with public tokenomics and roadmap documentation.
+A from-scratch blockchain implementation — proof-of-work consensus, ECDSA wallet cryptography, and a documented, runnable test suite rather than a whitepaper-only concept.
 
-`Tokenomics` `Blockchain` `Ecosystem Design`
+`Python` `ECDSA` `Proof-of-Work`
 
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-TOKEN/)
+[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SAYANJALI-BLOCKCHAIN)
+[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/syj-blockchain-web/)
+
+---
+
+### 📊 NexusIntel AI
+![Status](https://img.shields.io/badge/status-in%20development-818CF8?style=flat-square)
+
+Multi-tenant SaaS CRM that went through a dedicated audit pass — hardened JWT authentication, fixed mobile navigation, and a graceful fallback path for when AI quotas run out instead of a hard failure.
+
+`SaaS` `CRM` `Multi-Tenant`
 
 ---
 
 ### 📋 SYJ TalentFlow CLI
 ![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
 
-Terminal-based recruitment and hiring automation platform for structured, repeatable candidate workflows.
+A terminal-first alternative to typical recruiting software — structured candidate pipelines that never require leaving the CLI.
 
-`CLI` `Automation` `HR Tech`
+`CLI` `Recruiting` `Automation`
 
 [![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-TalentFlow-Cli)
 [![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-TalentFlow-Cli-Web/)
 
 ---
 
-### 🎓 SYJ Educate
+### 📈 SYJ OpenTrade Logic
 ![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
 
-Open-source engineering education platform spanning eight learning tracks — AI, Backend, Database, Frontend, Security, OSINT, and Automation — with applied industry examples, verified through live end-to-end testing from fresh environments.
+Trade and financial workflow automation, built for correctness under repeated runs rather than a one-off demo.
 
-`Full-Stack` `Curriculum Engineering` `Open Source`
+`Python` `Trading` `Workflow Automation`
 
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-Educate)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-EDU/index.html)
+[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-OpenTrade-Logic)
 
 ---
 
 ### 🎨 SYJ CanvasForge
 ![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
 
-Professional visual content generation platform with AI-powered creative workflows for brand and product content.
+AI-assisted visual content generation for brand and product assets — one pipeline instead of a stack of disconnected tools.
 
-`AI` `Content Generation` `Automation`
+`AI` `Content Generation`
 
 [![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-CanvasForge)
 [![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-CanvasForge/)
 
 ---
 
-### 📈 SYJ OpenTrade Logic
+### 🎓 SYJ Educate
 ![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
 
-Enterprise-grade trade automation and financial workflow platform built for reliability over speed-to-demo.
+An open-source engineering curriculum spanning eight tracks — AI, Backend, Database, Frontend, Security, OSINT, and Automation — verified through live end-to-end testing from fresh environments, not isolated snippets.
 
-`Python` `Financial Automation` `Enterprise`
+`Full-Stack` `Curriculum Engineering` `Open Source`
 
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-OpenTrade-Logic)
+[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-Educate)
+[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-EDU/index.html)
 
 ---
 
@@ -179,6 +194,7 @@ The full catalog spans AI, blockchain, security, and developer tooling — brows
 [![Explore](https://img.shields.io/badge/Project%20Explorer-Browse-0D1117?style=flat-square&logo=github)](#project-explorer)
 
 ---
+
 
 <h2 id="project-explorer">Project Explorer</h2>
 
@@ -270,7 +286,7 @@ Reporting and analytics layers built into the CRM and intelligence platforms abo
 <summary><b>📱 Android & Termux</b></summary>
 <br/>
 
-Every project in this profile is developed and tested natively on Android via Termux — from local LLM inference to full test suites — with zero desktop dependency.
+Many of my projects are designed, developed, and validated directly from Android using Termux, demonstrating that production-grade engineering isn't limited to traditional desktop environments.
 
 [Browse all Termux-native repositories →](https://github.com/SHalimoosavi?tab=repositories&q=termux)
 </details>
@@ -327,8 +343,6 @@ Early-stage prototypes and proof-of-concept work that hasn't graduated to produc
 
 <img src="https://streak-stats.demolab.com?user=SHalimoosavi&theme=dark&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=818CF8&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHalimoosavi&theme=react-dark&bg_color=0D1117&color=F59E0B&line=818CF8&point=FFFFFF&hide_border=true" width="100%"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/github-contribution-grid-snake.svg" />
@@ -337,41 +351,17 @@ Early-stage prototypes and proof-of-concept work that hasn't graduated to produc
 
 </div>
 
-<sub>Stats served via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>. The contribution snake is generated by a scheduled GitHub Action in this repository and self-hosted on the <code>output</code> branch — see <a href="#snake-setup">setup note</a> below.</sub>
-
----
-
-<h2 id="roadmap">Roadmap</h2>
-
-```mermaid
-flowchart LR
-    subgraph Now["In Progress"]
-        direction TB
-        N1["SYJ Educate — track expansion"]
-        N2["Nexus Shadow Sync — cross-platform sync engine"]
-    end
-    subgraph Next["Planned"]
-        direction TB
-        X1["SYJ Calling CRM v0.2.0 — Twilio click-to-call"]
-        X2["Local AI call summaries (Ollama / DeepSeek / Qwen)"]
-    end
-    subgraph Later["Exploring"]
-        direction TB
-        L1["Broader SaaS suite integration across SYJ products"]
-        L2["SAYANJALI Blockchain — extended network tooling"]
-    end
-    Now --> Next --> Later
-```
-
-<h3>Open Source Philosophy</h3>
-
-Code that ships under the SYJ name is built to be read, forked, and run without a hidden dependency on a paid API. Where a project uses AI, it defaults to local inference — Ollama, DeepSeek, Qwen — over closed models. Documentation is written for the next contributor, not for the demo. Nothing here is published to look busy; it's published because it works.
-
----
+<sub>Stats served via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>. The contribution snake is generated by a scheduled GitHub Action in this repository and self-hosted on the <code>output</code> branch — see the setup note below.</sub>
 
 <h3 id="snake-setup">Contribution Snake — Setup Note</h3>
 
 The animation above is generated by <code>.github/workflows/snake.yml</code> in this repository, using <a href="https://github.com/Platane/snk">Platane/snk</a>. It runs on a daily schedule, renders the snake as an SVG, and pushes it to an orphan <code>output</code> branch — from where it's served at <code>raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/</code>. One manual step is required after committing the workflow: in **Settings → Actions → General → Workflow permissions**, select **Read and write permissions**, since the job needs to push to the <code>output</code> branch. Then run the workflow once from the **Actions** tab (or wait for the next scheduled run) to generate the first SVG.
+
+---
+
+<h2 id="philosophy">Open Source Philosophy</h2>
+
+Code that ships under the SYJ name is built to be read, forked, and run without a hidden dependency on a paid API. Where a project uses AI, it defaults to local inference — Ollama, DeepSeek, Qwen — over closed models. Documentation is written for the next contributor, not for the demo. Nothing here is published to look busy; it's published because it works.
 
 ---
 
@@ -391,6 +381,6 @@ The animation above is generated by <code>.github/workflows/snake.yml</code> in 
 
 ---
 
-<sub>Building AI, blockchain, and automation systems from Hyderabad, India · 2026</sub>
+<sub>Engineering practical AI, automation, and blockchain solutions through SAYANJALI NEXUS PRIVATE LIMITED. Open to meaningful collaborations, open source, and enterprise engagements.</sub>
 
 </div>
