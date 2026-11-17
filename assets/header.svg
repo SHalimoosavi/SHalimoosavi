@@ -12,8 +12,8 @@
   <circle cx="1080" cy="70" r="62" fill="none" stroke="#818CF8" opacity=".28"/>
   <circle cx="1080" cy="70" r="7" fill="#F59E0B" class="pulse"/>
   <text x="72" y="100" fill="#F9FAFB" font-family="system-ui, sans-serif" font-size="39" font-weight="700" letter-spacing=".2">Syed Ali Hasan Moosavi</text>
-  <text x="74" y="145" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="19" font-weight="650">Founder &amp; Managing Director · SAYANJALI NEXUS PRIVATE LIMITED</text>
-  <text x="74" y="190" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="18">Engineering AI systems, blockchain infrastructure and enterprise software.</text>
+  <text x="74" y="145" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="24" font-weight="650">Founder &amp; Managing Director · SAYANJALI NEXUS PRIVATE LIMITED</text>
+  <text x="74" y="190" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="26">Engineering AI systems, blockchain infrastructure and enterprise software.</text>
   <rect x="74" y="220" width="220" height="3" rx="2" fill="url(#accent)" class="line"/>
   <style>
     .line { animation: reveal 5s ease-in-out infinite alternate; transform-origin:left; }
