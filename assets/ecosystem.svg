@@ -19,9 +19,9 @@
     <text x="500" y="78" class="company" font-size="23" font-weight="700">SAYANJALI NEXUS</text>
     <text x="500" y="105" class="secondary" font-size="15" fill="#F59E0B">PRIVATE LIMITED · Hyderabad, India</text>
     <text x="170" y="285" class="primary" font-size="20" font-weight="650">AI &amp; LLM</text><text x="170" y="310" class="secondary" font-size="14" fill="#D1D5DB">SYJ-AI · SYJ-LLM</text>
-    <text x="390" y="285" class="primary" font-size="20" font-weight="650">Blockchain</text><text x="390" y="310" font-size="14" fill="#D1D5DB">SAYANJALI BLOCKCHAIN</text>
+    <text x="390" y="285" class="primary" font-size="20" font-weight="650">Blockchain</text><text x="390" y="310" font-size="14" fill="#D1D5DB">SAYANJALI-BLOCKCHAIN</text>
     <text x="610" y="285" class="primary" font-size="20" font-weight="650">Enterprise</text><text x="610" y="310" font-size="14" fill="#D1D5DB">SYJ-HCM · DevXchange</text>
-    <text x="830" y="285" class="primary" font-size="20" font-weight="650">Security &amp; OSINT</text><text x="830" y="310" font-size="14" fill="#D1D5DB">SAYANJALI OSINT</text>
+    <text x="830" y="285" class="primary" font-size="20" font-weight="650">Security &amp; OSINT</text><text x="830" y="310" font-size="14" fill="#D1D5DB">sayanjali-osint</text>
     <text x="390" y="460" class="primary" font-size="19" font-weight="650">Developer Tools</text>
     <text x="610" y="460" class="primary" font-size="19" font-weight="650">Education</text>
   </g>
