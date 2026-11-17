@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="42" viewBox="0 0 220 42" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio link badge</title><desc id="desc">Portfolio: Engineering portfolio</desc>
+<rect x="1" y="1" width="218" height="40" rx="8" fill="#0D1117" stroke="#30394A"/>
+<rect x="1" y="1" width="4" height="40" rx="2" fill="#F59E0B"/>
+<text x="16" y="17" fill="#D1D5DB" font-family="system-ui, sans-serif" font-size="10" font-weight="600" letter-spacing=".7">PORTFOLIO</text>
+<text x="16" y="32" fill="#F9FAFB" font-family="system-ui, sans-serif" font-size="13" font-weight="650">Engineering portfolio</text>
+<style>@media (prefers-reduced-motion: reduce) { * { animation:none !important; transition:none !important; } }</style>
+</svg>
