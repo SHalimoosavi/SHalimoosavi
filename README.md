@@ -8,10 +8,10 @@
 
 Syed Ali Hasan Moosavi is the Founder and Managing Director of **SAYANJALI NEXUS PRIVATE LIMITED**, based in Hyderabad, India. He builds and maintains software across AI systems, blockchain infrastructure, enterprise automation, cybersecurity tooling and developer tools, with an emphasis on documented engineering, local inference and systems that can be inspected and operated by their users.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering%20Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=F59E0B)](https://shalimoosavi.github.io/moosavi/)
-[![Company](https://img.shields.io/badge/Company-SAYANJALI%20NEXUS-0D1117?style=for-the-badge&logo=googlecloud&logoColor=818CF8)](https://shalimoosavi.github.io/SAYANJALI_NEXUS/)
-[![GitHub](https://img.shields.io/badge/GitHub-SHalimoosavi-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHalimoosavi)
-[![Email](https://img.shields.io/badge/Email-CTO%20Office-0D1117?style=for-the-badge&logo=minutemailer&logoColor=F59E0B)](mailto:cto@sayanjalinexus.com)
+[![Portfolio](assets/badges/portfolio.svg)](https://shalimoosavi.github.io/moosavi/)
+[![Company](assets/badges/company.svg)](https://shalimoosavi.github.io/SAYANJALI_NEXUS/)
+[![GitHub](assets/badges/github.svg)](https://github.com/SHalimoosavi)
+[![Email](assets/badges/email.svg)](mailto:cto@sayanjalinexus.com)
 
 **Navigation:** [Highlights](#highlights) · [About](#about) · [What I Build](#what-i-build) · [Ecosystem](#ecosystem) · [Featured Projects](#featured-projects) · [Project Explorer](#project-explorer) · [Stack](#stack) · [GitHub Analytics](#github-analytics) · [FAQ](#faq) · [Open Source](#open-source-philosophy) · [Contact](#contact)
 
