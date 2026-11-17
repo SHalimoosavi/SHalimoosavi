@@ -16,7 +16,6 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from urllib.parse import urlparse
 
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
@@ -97,7 +96,7 @@ def render(files: list[Path]) -> int:
                             "<meta name='viewport' content='width=device-width,initial-scale=1'>"
                             "<style>html,body{margin:0;background:#0D1117}"
                             "img{display:block;width:100%;height:auto}</style></head>"
-                            f"<body><img id='asset' src='file://{asset.as_posix()}' "
+                            f"<body><img id='asset' src='{asset.resolve().as_uri()}' "
                             "alt='SVG preview'></body></html>",
                             encoding="utf-8",
                         )
@@ -131,6 +130,25 @@ def render(files: list[Path]) -> int:
                                 expected = motion == "reduce"
                                 if reduced != expected:
                                     raise RuntimeError("Reduced-motion emulation mismatch")
+                                if expected:
+                                    svg_page = browser.new_page(
+                                        viewport={"width": width, "height": 900},
+                                        device_scale_factor=1,
+                                    )
+                                    svg_page.set_default_timeout(TIMEOUT_MS)
+                                    svg_page.emulate_media(reduced_motion="reduce")
+                                    svg_page.goto(asset.resolve().as_uri(), wait_until="load",
+                                                  timeout=TIMEOUT_MS)
+                                    active_animations = svg_page.evaluate(
+                                        "[getComputedStyle(node).animationName "
+                                        "for (node of document.querySelectorAll('*')) "
+                                        "if (getComputedStyle(node).animationName !== 'none')]"
+                                    )
+                                    svg_page.close()
+                                    if active_animations:
+                                        raise RuntimeError(
+                                            f"Animations remain active under reduced motion: {active_animations}"
+                                        )
                                 success = True
                                 completed += 1
                                 print(f"PASS {relative} {width}px {motion} "
