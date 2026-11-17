@@ -120,6 +120,7 @@ Browse the full [public repository catalog](https://github.com/SHalimoosavi?tab=
 - [SYJ-SCHOLAR-AI](https://github.com/SHalimoosavi/SYJ-SCHOLAR-AI) — open-source study companion.
 - [syj-mail-intelligence-ai](https://github.com/SHalimoosavi/syj-mail-intelligence-ai) — mail intelligence project.
 - [SYJ-AI-Arena](https://github.com/SHalimoosavi/SYJ-AI-Arena) — model experimentation project.
+- [SYJ-CanvasForge](https://github.com/SHalimoosavi/SYJ-CanvasForge) — AI-assisted visual content and document tooling.
 
 </details>
 
@@ -157,7 +158,7 @@ Browse the full [public repository catalog](https://github.com/SHalimoosavi?tab=
 
 - [SYJ-SCHOLAR-AI](https://github.com/SHalimoosavi/SYJ-SCHOLAR-AI) — study companion.
 - [SYJ-WebForge-Academy](https://github.com/SHalimoosavi/SYJ-WebForge-Academy) — web development training platform.
-- [SYJ-Educate](https://github.com/SHalimoosavi/SYJ-Educate) — open engineering curriculum.
+- [SYJ-Educate](https://github.com/SHalimoosavi/SYJ-Educate) — open engineering curriculum · [Project site](https://shalimoosavi.github.io/SYJ-EDU/index.html).
 
 </details>
 
@@ -167,6 +168,7 @@ Browse the full [public repository catalog](https://github.com/SHalimoosavi?tab=
 - [SYJ-LaunchPad](https://github.com/SHalimoosavi/SYJ-LaunchPad) — launchpad infrastructure.
 - [SYJ-DEPLOY](https://github.com/SHalimoosavi/SYJ-DEPLOY) — self-hosted deployment platform.
 - [SYJ-OS](https://github.com/SHalimoosavi/SYJ-OS) — virtual-device simulator prototype.
+- [SYJ-CanvasForge](https://github.com/SHalimoosavi/SYJ-CanvasForge) — visual content tooling · [Project site](https://shalimoosavi.github.io/SYJ-CanvasForge/).
 - [SYJ-Gridsync-Os](https://github.com/SHalimoosavi/SYJ-Gridsync-Os) — grid synchronization middleware.
 - [DevXchange](https://github.com/SHalimoosavi/DevXchange) — software marketplace project.
 
