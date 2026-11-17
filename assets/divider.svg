@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-labelledby="title desc">
+  <title id="title">Animated section divider</title>
+  <desc id="desc">A restrained amber and indigo line separating profile sections.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F59E0B"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+  <path d="M0 17 H1200" stroke="#30394A" stroke-width="1"/>
+  <path class="travel" d="M0 17 H300" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+  <style>
+    .travel { animation: travel 8s ease-in-out infinite alternate; }
+    @keyframes travel { from { transform:translateX(0); opacity:.65; } to { transform:translateX(900px); opacity:1; } }
+    @media (prefers-reduced-motion: reduce) { .travel { animation:none !important; } }
+  </style>
+</svg>

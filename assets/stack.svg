@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering technology stack</title>
+  <desc id="desc">Technology labels for Python, TypeScript, JavaScript, C++17, FastAPI, Next.js, React, Node.js, SQLite, PostgreSQL, CMake, Ollama and GitHub Actions.</desc>
+  <rect width="1200" height="150" rx="18" fill="#0D1117" stroke="#30394A"/>
+  <g font-family="system-ui, sans-serif" font-size="19" font-weight="600" text-anchor="middle">
+    <g fill="#0D1117" stroke="#818CF8">
+      <rect x="25" y="22" width="150" height="42" rx="9"/><rect x="190" y="22" width="165" height="42" rx="9"/><rect x="370" y="22" width="165" height="42" rx="9"/><rect x="550" y="22" width="130" height="42" rx="9"/><rect x="695" y="22" width="150" height="42" rx="9"/><rect x="860" y="22" width="145" height="42" rx="9"/><rect x="1020" y="22" width="155" height="42" rx="9"/>
+      <rect x="25" y="84" width="150" height="42" rx="9"/><rect x="190" y="84" width="165" height="42" rx="9"/><rect x="370" y="84" width="165" height="42" rx="9"/><rect x="550" y="84" width="130" height="42" rx="9"/><rect x="695" y="84" width="150" height="42" rx="9"/><rect x="860" y="84" width="145" height="42" rx="9"/><rect x="1020" y="84" width="155" height="42" rx="9"/>
+    </g>
+    <g fill="#F9FAFB">
+      <text x="100" y="49">Python</text><text x="272" y="49">TypeScript</text><text x="452" y="49">JavaScript</text><text x="615" y="49">C++17</text><text x="770" y="49">FastAPI</text><text x="932" y="49">Next.js</text><text x="1097" y="49">React</text>
+      <text x="100" y="111">Node.js</text><text x="272" y="111">SQLite</text><text x="452" y="111">PostgreSQL</text><text x="615" y="111">CMake</text><text x="770" y="111">Ollama</text><text x="932" y="111">GitHub Actions</text><text x="1097" y="111">Docker</text>
+    </g>
+  </g>
+  <path d="M24 75 H1176" stroke="#F59E0B" stroke-width="1" opacity=".25"/>
+  <style>
+    rect { transition:stroke .3s ease; }
+    @media (prefers-reduced-motion: reduce) { rect { transition:none !important; } }
+  </style>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">SAYANJALI NEXUS product ecosystem</title>
+  <desc id="desc">SAYANJALI NEXUS PRIVATE LIMITED connects six engineering domains: AI and LLM systems, blockchain infrastructure, enterprise software, cybersecurity and OSINT, developer tools, and education technology.</desc>
+  <rect width="1000" height="520" rx="22" fill="#0D1117" stroke="#30394A"/>
+  <g fill="none" stroke="#4B5563" stroke-width="2">
+    <path d="M500 128 V190 M500 190 H170 V250 M500 190 H390 V250 M500 190 H610 V250 M500 190 H830 V250"/>
+    <path d="M170 330 V390 H390 V420 M610 330 V390 H830 V420"/>
+  </g>
+  <g fill="#0D1117" stroke="#818CF8" stroke-width="2">
+    <rect x="330" y="42" width="340" height="86" rx="14"/>
+    <rect x="65" y="250" width="210" height="80" rx="12"/>
+    <rect x="285" y="250" width="210" height="80" rx="12"/>
+    <rect x="505" y="250" width="210" height="80" rx="12"/>
+    <rect x="725" y="250" width="210" height="80" rx="12"/>
+    <rect x="285" y="420" width="210" height="66" rx="12"/>
+    <rect x="505" y="420" width="210" height="66" rx="12"/>
+  </g>
+  <g fill="#F9FAFB" font-family="system-ui, sans-serif" text-anchor="middle">
+    <text x="500" y="78" class="company" font-size="23" font-weight="700">SAYANJALI NEXUS</text>
+    <text x="500" y="105" class="secondary" font-size="15" fill="#F59E0B">PRIVATE LIMITED · Hyderabad, India</text>
+    <text x="170" y="285" class="primary" font-size="20" font-weight="650">AI &amp; LLM</text><text x="170" y="310" class="secondary" font-size="14" fill="#D1D5DB">SYJ-AI · SYJ-LLM</text>
+    <text x="390" y="285" class="primary" font-size="20" font-weight="650">Blockchain</text><text x="390" y="310" font-size="14" fill="#D1D5DB">SAYANJALI-BLOCKCHAIN</text>
+    <text x="610" y="285" class="primary" font-size="20" font-weight="650">Enterprise</text><text x="610" y="310" font-size="14" fill="#D1D5DB">SYJ-HCM · DevXchange</text>
+    <text x="830" y="285" class="primary" font-size="20" font-weight="650">Security &amp; OSINT</text><text x="830" y="310" font-size="14" fill="#D1D5DB">sayanjali-osint</text>
+    <text x="390" y="460" class="primary" font-size="19" font-weight="650">Developer Tools</text>
+    <text x="610" y="460" class="primary" font-size="19" font-weight="650">Education</text>
+  </g>
+  <g fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" class="signal">
+    <path d="M500 128 V190 H170 V250"/>
+    <path d="M500 128 V190 H610 V250"/>
+  </g>
+  <style>
+    .signal { stroke-dasharray:10 18; animation: flow 7s linear infinite; opacity:.8; }
+    @keyframes flow { to { stroke-dashoffset:-112; } }
+    @media (max-width: 600px) { .company { font-size:30px !important; } .primary { font-size:27px !important; } .secondary { font-size:18px !important; } } @media (prefers-reduced-motion: reduce) { .signal { animation:none !important; stroke-dasharray:none; opacity:.45; } }
+  </style>
+</svg>

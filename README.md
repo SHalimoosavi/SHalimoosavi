@@ -1,384 +1,271 @@
 <div align="center">
 
-# SYED ALI HASAN MOOSAVI
-
-### Founder & Managing Director · SAYANJALI NEXUS PRIVATE LIMITED
-
-<a href="https://shalimoosavi.github.io/moosavi/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=680&lines=AI+Systems+Architect+%7C+Blockchain+Strategist;Enterprise+Automation+%7C+Open-Source+Maintainer;Engineering+from+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/></a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-shalimoosavi.dev-0D1117?style=for-the-badge&logo=safari&logoColor=F59E0B)](https://shalimoosavi.github.io/moosavi/)
-[![Company](https://img.shields.io/badge/SAYANJALI%20NEXUS-Corporate%20Site-0D1117?style=for-the-badge&logo=googlecloud&logoColor=818CF8)](https://shalimoosavi.github.io/SAYANJALI_NEXUS/)
-[![GitHub](https://img.shields.io/badge/GitHub-SHalimoosavi-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHalimoosavi)
-[![Email](https://img.shields.io/badge/Contact-cto%40sayanjalinexus.com-0D1117?style=for-the-badge&logo=minutemailer&logoColor=F59E0B)](mailto:cto@sayanjalinexus.com)
-
-![Visitors](https://komarev.com/ghpvc/?username=SHalimoosavi&style=flat-square&color=0D1117&label=Profile+Views)
-![Repos](https://img.shields.io/badge/Repositories-Explore-0D1117?style=flat-square&logo=github)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Select%20Engagements-0D1117?style=flat-square)
+<img src="assets/header.svg" alt="Syed Ali Hasan Moosavi, Founder and Managing Director of SAYANJALI NEXUS PRIVATE LIMITED, working across AI systems, blockchain infrastructure and enterprise software" width="100%"/>
 
 </div>
 
-<p align="center">
-  <sub>
-    <a href="#highlights">Highlights</a> ·
-    <a href="#about">About</a> ·
-    <a href="#what-i-build">What I Build</a> ·
-    <a href="#ecosystem">Ecosystem</a> ·
-    <a href="#featured-projects">Featured Projects</a> ·
-    <a href="#project-explorer">Project Explorer</a> ·
-    <a href="#stack">Stack</a> ·
-    <a href="#analytics">Analytics</a> ·
-    <a href="#philosophy">Philosophy</a> ·
-    <a href="#contact">Contact</a>
-  </sub>
-</p>
+# Syed Ali Hasan Moosavi
+
+Syed Ali Hasan Moosavi is the Founder and Managing Director of **SAYANJALI NEXUS PRIVATE LIMITED**, based in Hyderabad, India. He builds and maintains software across AI systems, blockchain infrastructure, enterprise automation, cybersecurity tooling and developer tools, with an emphasis on documented engineering, local inference and systems that can be inspected and operated by their users.
+
+[![Portfolio](assets/badges/portfolio.svg)](https://shalimoosavi.github.io/moosavi/)
+[![Company](assets/badges/company.svg)](https://shalimoosavi.github.io/SAYANJALI_NEXUS/)
+[![GitHub](assets/badges/github.svg)](https://github.com/SHalimoosavi)
+[![Email](assets/badges/email.svg)](mailto:cto@sayanjalinexus.com)
+
+**Navigation:** [Highlights](#highlights) · [About](#about) · [What I Build](#what-i-build) · [Ecosystem](#ecosystem) · [Featured Projects](#featured-projects) · [Project Explorer](#project-explorer) · [Stack](#stack) · [GitHub Analytics](#github-analytics) · [FAQ](#faq) · [Open Source](#open-source-philosophy) · [Contact](#contact)
 
 ---
 
-<h2 id="highlights">Highlights</h2>
+## Facts at a glance
 
-- 🏢 Founder of **SAYANJALI NEXUS PRIVATE LIMITED**
-- 📦 60+ public repositories across AI, blockchain, and developer tooling
-- 🤖 Applied AI systems — from local-inference platforms to mail intelligence
-- 💼 SaaS & workflow automation for CRM, recruitment, and trade operations
-- ⛓️ Blockchain infrastructure — consensus, wallets, and tokenomics
-- 📱 Android + Termux-native development, alongside conventional Linux/cloud
-- 🔐 Cybersecurity & OSINT tooling
-- 🎓 Open-source education platform, independently test-verified
-- 🏥 Automation and compliance work for healthcare-adjacent clients
+- **Role:** Founder & Managing Director
+- **Company:** SAYANJALI NEXUS PRIVATE LIMITED
+- **Location:** Hyderabad, India
+- **Focus areas:** AI systems, blockchain infrastructure, enterprise automation, cybersecurity tooling and developer tools
+- **Primary languages across featured repositories:** Python, TypeScript, JavaScript and C++
+- **Public repositories:** 84 public, non-fork, non-archived repositories (GitHub API search, 17 November 2026)
+- **Portfolio:** [Engineering portfolio](https://shalimoosavi.github.io/moosavi/)
+- **Company:** [SAYANJALI NEXUS PRIVATE LIMITED](https://shalimoosavi.github.io/SAYANJALI_NEXUS/)
+- **Code:** [github.com/SHalimoosavi](https://github.com/SHalimoosavi)
+- **Contact:** [cto@sayanjalinexus.com](mailto:cto@sayanjalinexus.com)
 
----
+## Highlights
 
-<h2 id="about">About</h2>
+- Founder and Managing Director of **SAYANJALI NEXUS PRIVATE LIMITED**, Hyderabad, India.
+- Maintains **84 public, non-fork, non-archived GitHub repositories**.
+- Builds AI applications and local LLM infrastructure, including the C++17-based **SYJ-LLM** runtime.
+- Develops blockchain protocol software and documents its current testnet and production-readiness boundaries.
+- Builds enterprise workflow products for recruitment, human capital management and trade classification.
+- Publishes cybersecurity, OSINT, education and developer-tool projects.
 
-I'm the Founder and Managing Director of **SAYANJALI NEXUS PRIVATE LIMITED**, a registered technology company headquartered in Hyderabad, India. I design and ship production-grade software across artificial intelligence, blockchain infrastructure, enterprise automation, cybersecurity, and developer tooling — from architecture through deployment.
+## About
 
-Every system I build starts from the same constraint: it has to run cleanly on constrained, non-traditional environments before it earns a place in production. That discipline shapes how I write software — lean, dependency-conscious, and built to run anywhere, including entirely from Android via Termux.
+I work across product architecture and implementation: understanding an operational problem, defining a practical system boundary, building the core, adding tests and documentation, and improving the result through review.
 
-**Mission** — Build software that removes friction from real operations: compliance, communication, security, and data — without vendor lock-in or unnecessary complexity.
+At **SAYANJALI NEXUS PRIVATE LIMITED**, the work spans AI products, blockchain infrastructure, enterprise software, cybersecurity and developer tooling. I prefer systems whose architecture and limitations are visible, and I try to distinguish shipped functionality from prototypes and roadmap work.
 
-**Vision** — A product ecosystem under SAYANJALI NEXUS where AI, blockchain, and automation infrastructure are open, auditable, and genuinely useful to the businesses that adopt them — not just demo-ready.
+### Mission
 
-**Journey** — Dispatcher → Automation Engineer → AI Systems Architect → Founder → building the SAYANJALI NEXUS ecosystem.
+Build useful software that reduces operational friction in communication, security, compliance, business workflows and access to technical knowledge — without adding unnecessary complexity or hiding important dependencies.
 
-<h2 id="what-i-build">What I Build</h2>
+### Vision
 
-**Core Domains**
-- Artificial Intelligence & applied LLM systems
-- Enterprise automation & workflow platforms
-- Blockchain infrastructure & tokenomics
-- Cybersecurity, OSINT & threat tooling
-- Developer tools & CLI platforms
-- Education technology
+Develop a connected product ecosystem under SAYANJALI NEXUS where AI, blockchain and automation systems can work together while remaining understandable, auditable and maintainable.
 
-**Working Principles**
-- Local-first AI (Ollama, DeepSeek, Qwen) over closed APIs
-- Complete, production-ready deliverables — no partial snippets
-- Mobile-first, resource-constrained engineering by default
-- Verified through live end-to-end testing, not isolated demos
-- Honest scope — no overstated claims, no vaporware
+### Journey
 
-<h2 id="ecosystem">Company & Product Ecosystem</h2>
+My professional journey moved from dispatch and operations work into workflow automation, software engineering and AI systems development. I now lead product and engineering work through SAYANJALI NEXUS PRIVATE LIMITED, while continuing to publish independent projects and technical work in the open.
 
-**SAYANJALI NEXUS PRIVATE LIMITED** — a registered Indian technology company operating across AI product development, blockchain infrastructure, cybersecurity/OSINT, enterprise SaaS, developer tooling, and education technology, under the SAYANJALI / SYJ brand ecosystem.
+## What I Build
 
-```mermaid
-flowchart TD
-    A["SAYANJALI NEXUS PRIVATE LIMITED"] --> B["AI & Automation"]
-    A --> C["Blockchain & Digital Assets"]
-    A --> D["Enterprise SaaS"]
-    A --> E["Cybersecurity & OSINT"]
-    A --> F["Developer Tooling"]
-    A --> G["Education Technology"]
+### Core domains
 
-    B --> B1["SYJ AI"]
-    C --> C1["SAYANJALI Blockchain"]
-    C --> C2["SYJ Token"]
-    D --> D1["SYJ TalentFlow CLI"]
-    D --> D2["SYJ OpenTrade Logic"]
-    E --> E1["SAYANJALI OSINT"]
-    F --> F1["SYJ CanvasForge"]
-    G --> G1["SYJ Educate"]
-```
+- **AI systems:** applied LLM workflows, autonomous software-engineering tools and local inference.
+- **LLM infrastructure:** native runtimes, GGUF model handling, memory-aware execution and local APIs.
+- **Blockchain infrastructure:** protocol engineering, consensus research, wallets, transactions and testnet tooling.
+- **Enterprise automation:** recruitment, human capital management, CRM and trade-compliance workflows.
+- **Cybersecurity and OSINT:** reconnaissance, security research and intelligence tooling.
+- **Developer tools:** command-line utilities, build tooling and software workflow platforms.
+- **Education technology:** open learning resources and practical engineering curricula.
 
----
+### Working principles
 
-<h2 id="featured-projects">Featured Projects</h2>
+- Read the existing system before changing it.
+- Prefer understandable architectures and explicit dependencies.
+- Keep documentation aligned with the actual implementation.
+- Test behavior, not just whether a project starts.
+- Separate verified capabilities from prototypes, experiments and roadmap items.
+- Avoid unnecessary vendor lock-in; use local execution where it is a practical fit.
 
-### 🧠 SYJ AI
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
+## Ecosystem
 
-The umbrella showcase for applied AI across the SAYANJALI NEXUS portfolio — automation tooling and intelligent applications built around local inference rather than a hosted API.
+**SAYANJALI NEXUS PRIVATE LIMITED** is the company behind a portfolio of software projects spanning AI, blockchain, enterprise applications, cybersecurity, developer tools and education technology.
 
-`Python` `FastAPI` `Applied AI`
+<img src="assets/ecosystem.svg" alt="SAYANJALI NEXUS ecosystem diagram connecting AI and LLM systems, blockchain, enterprise software, security and OSINT, developer tools, and education" width="100%"/>
 
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-AI)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-AI-Landing/)
+The diagram is a high-level grouping of the engineering portfolio. The text list below remains the reference if images are unavailable.
 
----
+- **AI and LLM:** SYJ-AI, SYJ-LLM, SYJ-SCHOLAR-AI and related applied AI work.
+- **Blockchain:** SAYANJALI-BLOCKCHAIN and the SYJ ecosystem.
+- **Enterprise software:** SYJ-HCM, SYJ-TalentFlow-Cli and SYJ-OpenTrade-Logic.
+- **Security and intelligence:** sayanjali-osint and security-focused utilities.
+- **Developer tools:** SYJ-OS, SYJ-LaunchPad and supporting engineering tools.
+- **Education:** SYJ-WebForge-Academy and SYJ-SCHOLAR-AI.
 
-### 🔗 SAYANJALI Blockchain
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
+## Featured Projects
 
-A from-scratch blockchain implementation — proof-of-work consensus, ECDSA wallet cryptography, and a documented, runnable test suite rather than a whitepaper-only concept.
+The selection below is based on repository evidence: a README, tests or a test directory, CI workflow where present, recent push activity, community signals, a non-empty repository description, license file presence and a verified live homepage where available. Project status is stated conservatively.
 
-`Python` `ECDSA` `Proof-of-Work`
+| Project | What it does | Stack | Current status and links |
+|---|---|---|---|
+| **[SYJ-AI](https://github.com/SHalimoosavi/SYJ-AI)** | An open-source, local-first autonomous software-engineering agent that organizes work across planning, research, design, coding, review and verification using local models. | Python, Ollama | Active development · [Project site](https://shalimoosavi.github.io/SYJ-AI-Landing/) |
+| **[SAYANJALI-BLOCKCHAIN](https://github.com/SHalimoosavi/SAYANJALI-BLOCKCHAIN)** | An independently engineered Layer-1 protocol project covering consensus, transactions, wallets, persistent storage and peer-to-peer networking. | Python, Go | Phase 10.1 documentation and validation work; **not production-ready or mainnet-ready** · [Project site](https://shalimoosavi.github.io/syj-blockchain-web/) |
+| **[SYJ-TalentFlow-Cli](https://github.com/SHalimoosavi/SYJ-TalentFlow-Cli)** | An open-source recruitment automation toolkit for parsing resumes, matching candidates to job descriptions, generating interview questions and preparing recruiter communications. | JavaScript, Node.js | Active development · [Project site](https://shalimoosavi.github.io/SYJ-TalentFlow-Cli-Web/) |
+| **[SYJ-OpenTrade-Logic](https://github.com/SHalimoosavi/SYJ-OpenTrade-Logic)** | An open-source deterministic HTS classification engine that applies explainable General Rules of Interpretation rather than relying on opaque classification output. | Python | Active development · [Repository](https://github.com/SHalimoosavi/SYJ-OpenTrade-Logic) |
+| **[SYJ-Video-Forge](https://github.com/SHalimoosavi/SYJ-Video-Forge)** | A browser interface, local backend and file-bundle GPU worker for open video models, using a user-controlled inference environment. | Python, JavaScript, FFmpeg | v0.3.0 pre-release; real inference is implemented but remains unverified on real GPU hardware · [Repository](https://github.com/SHalimoosavi/SYJ-Video-Forge) |
+| **[SYJ-HCM](https://github.com/SHalimoosavi/SYJ-HCM)** | A multi-tenant human capital management and applicant tracking application covering employee management, recruitment, careers, documents, interviews and offer workflows. | TypeScript, Next.js, Drizzle ORM, SQLite | v0.13.0-alpha · Phase 2.4 documented in the repository · [Repository](https://github.com/SHalimoosavi/SYJ-HCM) |
+| **[SYJ-OS](https://github.com/SHalimoosavi/SYJ-OS)** | A browser-based virtual-device simulator prototype for exploring device interface and system concepts; it is not a standalone operating system or hardware emulator. | TypeScript, Vite, React | v0.1.0 prototype · [Repository](https://github.com/SHalimoosavi/SYJ-OS) |
+| **[SYJ-LLM](https://github.com/SHalimoosavi/SYJ-LLM)** | A C++17 offline-first LLM runtime built around llama.cpp and GGUF, with a local model registry, memory-aware execution, CLI workflows and an optional localhost API foundation. | C++17, CMake, llama.cpp | Phase 5 — Fine-Tuning Pipeline; later Studio, remote access and platform packaging remain unimplemented · [Repository](https://github.com/SHalimoosavi/SYJ-LLM) |
 
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SAYANJALI-BLOCKCHAIN)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/syj-blockchain-web/)
+## Project Explorer
 
----
-
-### 📊 NexusIntel AI
-![Status](https://img.shields.io/badge/status-in%20development-818CF8?style=flat-square)
-
-Multi-tenant SaaS CRM that went through a dedicated audit pass — hardened JWT authentication, fixed mobile navigation, and a graceful fallback path for when AI quotas run out instead of a hard failure.
-
-`SaaS` `CRM` `Multi-Tenant`
-
----
-
-### 📋 SYJ TalentFlow CLI
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
-
-A terminal-first alternative to typical recruiting software — structured candidate pipelines that never require leaving the CLI.
-
-`CLI` `Recruiting` `Automation`
-
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-TalentFlow-Cli)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-TalentFlow-Cli-Web/)
-
----
-
-### 📈 SYJ OpenTrade Logic
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
-
-Trade and financial workflow automation, built for correctness under repeated runs rather than a one-off demo.
-
-`Python` `Trading` `Workflow Automation`
-
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-OpenTrade-Logic)
-
----
-
-### 🎨 SYJ CanvasForge
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
-
-AI-assisted visual content generation for brand and product assets — one pipeline instead of a stack of disconnected tools.
-
-`AI` `Content Generation`
-
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-CanvasForge)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-CanvasForge/)
-
----
-
-### 🎓 SYJ Educate
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
-
-An open-source engineering curriculum spanning eight tracks — AI, Backend, Database, Frontend, Security, OSINT, and Automation — verified through live end-to-end testing from fresh environments, not isolated snippets.
-
-`Full-Stack` `Curriculum Engineering` `Open Source`
-
-[![Repo](https://img.shields.io/badge/Repository-View-0D1117?style=flat-square&logo=github)](https://github.com/SHalimoosavi/SYJ-Educate)
-[![Site](https://img.shields.io/badge/Website-Visit-0D1117?style=flat-square&logo=vercel)](https://shalimoosavi.github.io/SYJ-EDU/index.html)
-
----
-
-### 🗂️ More Repositories
-![Status](https://img.shields.io/badge/status-explore-818CF8?style=flat-square)
-
-The full catalog spans AI, blockchain, security, and developer tooling — browse it category by category below.
-
-[![Explore](https://img.shields.io/badge/Project%20Explorer-Browse-0D1117?style=flat-square&logo=github)](#project-explorer)
-
----
-
-
-<h2 id="project-explorer">Project Explorer</h2>
-
-<p>60+ public repositories, organized by domain. Each section links to a live, filtered view of the full catalog on GitHub.</p>
+Browse the full [public repository catalog](https://github.com/SHalimoosavi?tab=repositories). The categories below link to representative repositories rather than relying on broad search queries that may return inconsistent results.
 
 <details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
+<summary><strong>AI and Machine Learning</strong></summary>
 
-- **SYJ AI** — enterprise AI platform and automation tooling
-- **SYJ Mail Intelligence AI** — Gmail-integrated mail analysis and summarization, running on local LLM inference
-- **ARIA** — Anthropic API-backed conversational assistant
-- **Zara** — AI assistant deployable as a React component, embeddable widget, and Instagram DM bot
+- [SYJ-AI](https://github.com/SHalimoosavi/SYJ-AI) — autonomous software-engineering agent.
+- [SYJ-LLM](https://github.com/SHalimoosavi/SYJ-LLM) — native local LLM runtime.
+- [SYJ-SCHOLAR-AI](https://github.com/SHalimoosavi/SYJ-SCHOLAR-AI) — open-source study companion.
+- [syj-mail-intelligence-ai](https://github.com/SHalimoosavi/syj-mail-intelligence-ai) — mail intelligence project.
+- [SYJ-AI-Arena](https://github.com/SHalimoosavi/SYJ-AI-Arena) — model experimentation project.
+- [SYJ-CanvasForge](https://github.com/SHalimoosavi/SYJ-CanvasForge) — AI-assisted visual content and document tooling.
 
-[Browse all AI repositories →](https://github.com/SHalimoosavi?tab=repositories&q=ai)
 </details>
 
 <details>
-<summary><b>⛓️ Blockchain & Web3</b></summary>
-<br/>
+<summary><strong>Blockchain and Web3</strong></summary>
 
-- **SAYANJALI Blockchain** — proof-of-work chain with ECDSA wallet cryptography and an automated test suite
-- **SYJ Token** — tokenomics design and ecosystem strategy
+- [SAYANJALI-BLOCKCHAIN](https://github.com/SHalimoosavi/SAYANJALI-BLOCKCHAIN) — Layer-1 protocol engineering.
+- [SYJ-TOKEN](https://github.com/SHalimoosavi/SYJ-TOKEN) — token ecosystem repository.
+- [syj-blockchain-web](https://github.com/SHalimoosavi/syj-blockchain-web) — blockchain project website.
 
-[Browse all blockchain repositories →](https://github.com/SHalimoosavi?tab=repositories&q=blockchain)
 </details>
 
 <details>
-<summary><b>🏥 Healthcare SaaS</b></summary>
-<br/>
+<summary><strong>Healthcare and Human Capital Software</strong></summary>
 
-Document processing, compliance, and operational automation built for healthcare and hospital-facing engagements under SAYANJALI NEXUS.
+- [SYJ-HCM](https://github.com/SHalimoosavi/SYJ-HCM) — HCM and applicant tracking.
+- [Sayanjali-Nexus-CRM](https://github.com/SHalimoosavi/Sayanjali-Nexus-CRM) — CRM application.
+- [SYJ-GST-Reconciliation](https://github.com/SHalimoosavi/SYJ-GST-Reconciliation) — GST reconciliation tooling.
 
-[Browse all healthcare repositories →](https://github.com/SHalimoosavi?tab=repositories&q=health)
 </details>
 
 <details>
-<summary><b>💼 Enterprise Automation</b></summary>
-<br/>
+<summary><strong>Enterprise Automation and Business Operations</strong></summary>
 
-- **SYJ Calling CRM** — TypeScript monorepo CRM (Express, Prisma, Next.js 14)
-- **NexusIntel AI** — multi-tenant SaaS CRM
-- **SYJ TalentFlow CLI** — recruitment and hiring automation
-- **SYJ OpenTrade Logic** — trade and financial workflow automation
+- [SYJ-TalentFlow-Cli](https://github.com/SHalimoosavi/SYJ-TalentFlow-Cli) — recruitment automation.
+- [SYJ-OpenTrade-Logic](https://github.com/SHalimoosavi/SYJ-OpenTrade-Logic) — deterministic trade classification.
+- [SYJ-QuickStock-Sync](https://github.com/SHalimoosavi/SYJ-QuickStock-Sync) — inventory synchronization.
+- [SYJ-LeadForge](https://github.com/SHalimoosavi/SYJ-LeadForge) — lead workflow tooling.
+- [SYJ-Property-Sync](https://github.com/SHalimoosavi/SYJ-Property-Sync) — property workflow project.
 
-[Browse all automation repositories →](https://github.com/SHalimoosavi?tab=repositories&q=automation)
 </details>
 
 <details>
-<summary><b>📊 Business Intelligence</b></summary>
-<br/>
+<summary><strong>Education Platforms</strong></summary>
 
-Reporting and analytics layers built into the CRM and intelligence platforms above — pipeline, quota, and workflow visibility for operations teams.
+- [SYJ-SCHOLAR-AI](https://github.com/SHalimoosavi/SYJ-SCHOLAR-AI) — study companion.
+- [SYJ-WebForge-Academy](https://github.com/SHalimoosavi/SYJ-WebForge-Academy) — web development training platform.
+- [SYJ-Educate](https://github.com/SHalimoosavi/SYJ-Educate) — open engineering curriculum · [Project site](https://shalimoosavi.github.io/SYJ-EDU/index.html).
 
-[Browse all analytics repositories →](https://github.com/SHalimoosavi?tab=repositories&q=analytics)
 </details>
 
 <details>
-<summary><b>🎓 Education Platforms</b></summary>
-<br/>
+<summary><strong>Developer Tools and Infrastructure</strong></summary>
 
-- **SYJ Educate** — eight-track open-source engineering curriculum with applied, industry-verified examples
+- [SYJ-LaunchPad](https://github.com/SHalimoosavi/SYJ-LaunchPad) — launchpad infrastructure.
+- [SYJ-DEPLOY](https://github.com/SHalimoosavi/SYJ-DEPLOY) — self-hosted deployment platform.
+- [SYJ-OS](https://github.com/SHalimoosavi/SYJ-OS) — virtual-device simulator prototype.
+- [SYJ-CanvasForge](https://github.com/SHalimoosavi/SYJ-CanvasForge) — visual content tooling · [Project site](https://shalimoosavi.github.io/SYJ-CanvasForge/).
+- [SYJ-Gridsync-Os](https://github.com/SHalimoosavi/SYJ-Gridsync-Os) — grid synchronization middleware.
+- [DevXchange](https://github.com/SHalimoosavi/DevXchange) — software marketplace project.
 
-[Browse all education repositories →](https://github.com/SHalimoosavi?tab=repositories&q=education)
 </details>
 
 <details>
-<summary><b>🛠️ Developer Tools</b></summary>
-<br/>
+<summary><strong>Cybersecurity and OSINT</strong></summary>
 
-- **Nexus Shadow Sync** — headless, local-first developer context-mirroring tool (SQLite/Drizzle ORM, color-coded CLI dashboard)
-- **SYJ ONE** — all-in-one Termux productivity, security, and dev platform
-- **SYJ CanvasForge** — AI-powered visual content generation tooling
+- [sayanjali-osint](https://github.com/SHalimoosavi/sayanjali-osint) — OSINT and reconnaissance tooling.
+- [SYJ-Aegis](https://github.com/SHalimoosavi/SYJ-Aegis) — security-focused project.
+- [SYJ-Nexus-Sentinel-Audit](https://github.com/SHalimoosavi/SYJ-Nexus-Sentinel-Audit) — security audit tooling.
+- [SYJ-InstaRecon](https://github.com/SHalimoosavi/SYJ-InstaRecon) — reconnaissance project.
 
-[Browse all developer tool repositories →](https://github.com/SHalimoosavi?tab=repositories&q=cli)
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity & OSINT</b></summary>
-<br/>
+<summary><strong>Experimental Projects</strong></summary>
 
-- **SAYANJALI OSINT** — geolocation and intelligence toolkit built entirely on free APIs, Termux-native
-- **CyberDeck** — security operations dashboard (Flask, React, local LLM inference)
+Prototypes and research projects are part of the wider repository catalog. Their individual READMEs define what is implemented and what remains experimental.
 
-[Browse all security repositories →](https://github.com/SHalimoosavi?tab=repositories&q=security)
+[Browse all public repositories](https://github.com/SHalimoosavi?tab=repositories).
+
 </details>
 
-<details>
-<summary><b>📱 Android & Termux</b></summary>
-<br/>
+## Stack
 
-Many of my projects are designed, developed, and validated directly from Android using Termux, demonstrating that production-grade engineering isn't limited to traditional desktop environments.
+The technologies below are represented in the featured repositories and their documentation.
 
-[Browse all Termux-native repositories →](https://github.com/SHalimoosavi?tab=repositories&q=termux)
-</details>
+<img src="assets/stack.svg" alt="Technology stack including Python, TypeScript, JavaScript, C++17, FastAPI, Next.js, React, Node.js, SQLite, PostgreSQL, CMake, Ollama, GitHub Actions and Docker" width="100%"/>
 
-<details>
-<summary><b>🧪 Experimental Projects</b></summary>
-<br/>
+- **Languages:** Python, TypeScript, JavaScript, C++17.
+- **Frameworks and runtimes:** FastAPI, Next.js, React, Node.js.
+- **AI and model tooling:** Ollama, llama.cpp, GGUF.
+- **Data and build tools:** SQLite, PostgreSQL, Drizzle ORM, CMake.
+- **Engineering and delivery:** GitHub Actions, Docker, automated tests.
 
-Early-stage prototypes and proof-of-concept work that hasn't graduated to production status yet — the testbed for everything above.
+## GitHub Analytics
 
-[Browse the full repository list →](https://github.com/SHalimoosavi?tab=repositories)
-</details>
+GitHub's native profile contribution graph and repository pages are the reference for current activity. I have not embedded third-party streak or activity widgets here because their availability and rendering could not be established reliably during this update.
 
----
+- [View GitHub contribution activity](https://github.com/SHalimoosavi)
+- [Browse repositories and current repository metrics](https://github.com/SHalimoosavi?tab=repositories)
 
-<h2 id="stack">Stack</h2>
+## FAQ
 
-**Languages**
+### Who is Syed Ali Hasan Moosavi?
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F59E0B)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=818CF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F59E0B)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=F59E0B)
+Syed Ali Hasan Moosavi is the Founder and Managing Director of SAYANJALI NEXUS PRIVATE LIMITED. His public engineering work covers AI systems, blockchain infrastructure, enterprise software, cybersecurity tooling and developer tools.
 
-**Frameworks & Runtime**
+### What is SAYANJALI NEXUS PRIVATE LIMITED?
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=F59E0B)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=818CF8)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=F59E0B)
+SAYANJALI NEXUS PRIVATE LIMITED is a technology company based in Hyderabad, India. Its public software portfolio includes AI, blockchain, enterprise applications, security tooling, developer infrastructure and education projects.
 
-**AI & Data**
+### What open-source projects does Syed Ali Hasan Moosavi maintain?
 
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=818CF8)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=F59E0B)
+The public portfolio includes SYJ-AI, SAYANJALI-BLOCKCHAIN, SYJ-TalentFlow-Cli, SYJ-OpenTrade-Logic, SYJ-LLM, SYJ-Video-Forge, SYJ-HCM and SYJ-OS, among other repositories. The [GitHub repository catalog](https://github.com/SHalimoosavi?tab=repositories) is the current source for the complete list.
 
-**Infrastructure**
+### What is SYJ-LLM?
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=F59E0B)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=818CF8)
-![Android](https://img.shields.io/badge/Android%20%2F%20Termux-0D1117?style=flat-square&logo=android&logoColor=F59E0B)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=818CF8)
+SYJ-LLM is a C++17 offline-first LLM runtime built around llama.cpp and GGUF models. Its documented components include a local model registry, memory-aware execution, CLI workflows, an optional localhost API foundation and a fine-tuning pipeline.
 
----
+### What technologies does he work with?
 
-<h2 id="analytics">GitHub Analytics</h2>
+The featured repositories use Python, TypeScript, JavaScript and C++17, alongside FastAPI, Next.js, React, Node.js, SQLite, PostgreSQL, CMake, Ollama and llama.cpp.
 
-<div align="center">
+### Where is Syed Ali Hasan Moosavi based?
 
-<img src="https://streak-stats.demolab.com?user=SHalimoosavi&theme=dark&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=818CF8&hide_border=true" width="100%"/>
+Syed Ali Hasan Moosavi is based in Hyderabad, Telangana, India, and leads SAYANJALI NEXUS PRIVATE LIMITED from Hyderabad.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHalimoosavi&theme=react-dark&bg_color=0D1117&color=F59E0B&line=818CF8&point=FFFFFF&hide_border=true" width="100%"/>
+### How can I contact him for engineering work?
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+For company and engineering enquiries, email [cto@sayanjalinexus.com](mailto:cto@sayanjalinexus.com). For direct contact, use [shalimoosavi@gmail.com](mailto:shalimoosavi@gmail.com).
 
-</div>
+### Is SAYANJALI-BLOCKCHAIN production-ready?
 
-<sub>Streak and activity stats served via <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> and <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity-graph</a>. The contribution snake is generated by a scheduled GitHub Action in this repository and self-hosted on the <code>output</code> branch — see the setup note below.</sub>
+No. The repository's current documentation explicitly states that SAYANJALI-BLOCKCHAIN is not production-ready and not mainnet-ready. Its current development and validation work should be understood as protocol engineering, not a live production network.
 
-<h3 id="snake-setup">Contribution Snake — Setup Note</h3>
+## Open Source Philosophy
 
-The animation above is generated by <code>.github/workflows/snake.yml</code> in this repository, using <a href="https://github.com/Platane/snk">Platane/snk</a>. It runs on a daily schedule, renders the snake as an SVG, and pushes it to an orphan <code>output</code> branch — from where it's served at <code>raw.githubusercontent.com/SHalimoosavi/SHalimoosavi/output/</code>. One manual step is required after committing the workflow: in **Settings → Actions → General → Workflow permissions**, select **Read and write permissions**, since the job needs to push to the <code>output</code> branch. Then run the workflow once from the **Actions** tab (or wait for the next scheduled run) to generate the first SVG.
+I publish software so that other developers can inspect the implementation, understand its dependencies and decide whether it fits their work. Documentation should describe the code that exists, tests should exercise real behavior, and project status should distinguish implemented features from future plans.
 
----
+Where local inference or self-hosting is practical, I prefer keeping control of the runtime and data with the operator. Open source is most useful when the project is understandable, reproducible and honest about its limits.
 
-<h2 id="philosophy">Open Source Philosophy</h2>
-
-Code that ships under the SYJ name is built to be read, forked, and run without a hidden dependency on a paid API. Where a project uses AI, it defaults to local inference — Ollama, DeepSeek, Qwen — over closed models. Documentation is written for the next contributor, not for the demo. Nothing here is published to look busy; it's published because it works.
-
----
-
-<h2 id="contact">Contact</h2>
-
-<div align="center">
+## Contact
 
 | Channel | Purpose |
 |---|---|
-| [cto@sayanjalinexus.com](mailto:cto@sayanjalinexus.com) | CTO Office — enterprise & general inquiries |
-| [shalimoosavi@gmail.com](mailto:shalimoosavi@gmail.com) | Personal — direct contact |
-| [Portfolio](https://shalimoosavi.github.io/moosavi/) | Founder portfolio & case studies |
-| [SAYANJALI NEXUS](https://shalimoosavi.github.io/SAYANJALI_NEXUS/) | Corporate site |
-| [GitHub](https://github.com/SHalimoosavi) | Full repository catalog |
+| [cto@sayanjalinexus.com](mailto:cto@sayanjalinexus.com) | CTO Office — company, engineering and business enquiries |
+| [shalimoosavi@gmail.com](mailto:shalimoosavi@gmail.com) | Personal contact |
+| [Engineering portfolio](https://shalimoosavi.github.io/moosavi/) | Portfolio and project context |
+| [SAYANJALI NEXUS PRIVATE LIMITED](https://shalimoosavi.github.io/SAYANJALI_NEXUS/) | Company website |
+| [GitHub profile](https://github.com/SHalimoosavi) | Public repositories and development activity |
 
 **SAYANJALI NEXUS PRIVATE LIMITED · Hyderabad, India**
 
----
+<img src="assets/divider.svg" alt="Animated amber and indigo footer divider" width="100%"/>
 
-<sub>Engineering practical AI, automation, and blockchain solutions through SAYANJALI NEXUS PRIVATE LIMITED. Open to meaningful collaborations, open source, and enterprise engagements.</sub>
-
+<div align="center">
+  <sub>Building and documenting practical software through SAYANJALI NEXUS PRIVATE LIMITED.</sub>
 </div>
