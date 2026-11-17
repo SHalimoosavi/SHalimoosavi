@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Syed Ali Hasan Moosavi — engineering profile</title>
+  <desc id="desc">A dark animated banner naming Syed Ali Hasan Moosavi, Founder and Managing Director, and describing work across AI systems, blockchain infrastructure, and enterprise software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#171D2B"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F59E0B"/><stop offset=".52" stop-color="#818CF8"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <path d="M0 245 C230 195 350 290 580 238 S930 188 1200 238" fill="none" stroke="#263044" stroke-width="1"/>
+  <path d="M0 260 C230 210 350 305 580 253 S930 203 1200 253" fill="none" stroke="#263044" stroke-width="1"/>
+  <circle cx="1030" cy="70" r="100" fill="#818CF8" opacity=".07"/>
+  <circle cx="1080" cy="70" r="62" fill="none" stroke="#818CF8" opacity=".28"/>
+  <circle cx="1080" cy="70" r="7" fill="#F59E0B" class="pulse"/>
+  <text x="72" y="100" fill="#F9FAFB" font-family="system-ui, sans-serif" font-size="39" font-weight="700" letter-spacing=".2">Syed Ali Hasan Moosavi</text>
+  <text x="74" y="145" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="19" font-weight="650">Founder &amp; Managing Director · SAYANJALI NEXUS PRIVATE LIMITED</text>
+  <text x="74" y="190" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="18">Engineering AI systems, blockchain infrastructure and enterprise software.</text>
+  <rect x="74" y="220" width="220" height="3" rx="2" fill="url(#accent)" class="line"/>
+  <style>
+    .line { animation: reveal 5s ease-in-out infinite alternate; transform-origin:left; }
+    .pulse { animation: pulse 4s ease-in-out infinite; transform-origin:1030px 70px; }
+    @keyframes reveal { from { transform:scaleX(.35); opacity:.55; } to { transform:scaleX(1); opacity:1; } }
+    @keyframes pulse { 0%,100% { opacity:.45; transform:scale(.85); } 50% { opacity:1; transform:scale(1.25); } }
+    @media (prefers-reduced-motion: reduce) { .line,.pulse { animation:none !important; } }
+  </style>
+</svg>
