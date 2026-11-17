@@ -140,9 +140,9 @@ def render(files: list[Path]) -> int:
                                     svg_page.goto(asset.resolve().as_uri(), wait_until="load",
                                                   timeout=TIMEOUT_MS)
                                     active_animations = svg_page.evaluate(
-                                        "[getComputedStyle(node).animationName "
-                                        "for (node of document.querySelectorAll('*')) "
-                                        "if (getComputedStyle(node).animationName !== 'none')]"
+                                        "Array.from(document.querySelectorAll('*'))"
+                                        ".map(node => getComputedStyle(node).animationName)"
+                                        ".filter(name => name !== 'none')"
                                     )
                                     svg_page.close()
                                     if active_animations:
