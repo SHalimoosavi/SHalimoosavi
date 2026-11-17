@@ -89,7 +89,7 @@ The diagram is a high-level grouping of the engineering portfolio. The text list
 - **AI and LLM:** SYJ-AI, SYJ-LLM, SYJ-SCHOLAR-AI and related applied AI work.
 - **Blockchain:** SAYANJALI-BLOCKCHAIN and the SYJ ecosystem.
 - **Enterprise software:** SYJ-HCM, SYJ-TalentFlow-Cli and SYJ-OpenTrade-Logic.
-- **Security and intelligence:** SAYANJALI OSINT and security-focused utilities.
+- **Security and intelligence:** sayanjali-osint and security-focused utilities.
 - **Developer tools:** SYJ-OS, SYJ-LaunchPad and supporting engineering tools.
 - **Education:** SYJ-WebForge-Academy and SYJ-SCHOLAR-AI.
 
@@ -242,9 +242,9 @@ Syed Ali Hasan Moosavi is based in Hyderabad, Telangana, India, and leads SAYANJ
 
 For company and engineering enquiries, email [cto@sayanjalinexus.com](mailto:cto@sayanjalinexus.com). For direct contact, use [shalimoosavi@gmail.com](mailto:shalimoosavi@gmail.com).
 
-### Is SAYANJALI BLOCKCHAIN production-ready?
+### Is SAYANJALI-BLOCKCHAIN production-ready?
 
-No. The repository's current documentation explicitly states that SAYANJALI BLOCKCHAIN is not production-ready and not mainnet-ready. Its current development and validation work should be understood as protocol engineering, not a live production network.
+No. The repository's current documentation explicitly states that SAYANJALI-BLOCKCHAIN is not production-ready and not mainnet-ready. Its current development and validation work should be understood as protocol engineering, not a live production network.
 
 ## Open Source Philosophy
 
